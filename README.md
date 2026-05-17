@@ -5,3 +5,5 @@ Repositori ini berisi kumpulan implementasi algoritma pengurutan data (*sorting*
 ## 🚀 Pembaruan Terbaru
 
 - **[BARU]** Baru saja ditambahkan **1 algoritma sort baru** ke dalam koleksi ini, yaitu **[Bubble Sort]**. Algoritma ini sudah dilengkapi dengan contoh implementasi kode dan penjelasan singkat di dalam file sumbernya.
+
+- **[BARU]** Baru saja ditambahkan **1 algoritma sort baru** ke dalam koleksi ini, yaitu **[Selection Sort]**. Algoritma ini sudah dilengkapi dengan contoh implementasi kode dan penjelasan singkat di dalam file sumbernya.
